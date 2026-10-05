@@ -1,0 +1,15 @@
+# Gmail login files 
+credentials.json
+token.json
+
+# Applicant personal data
+*.xlsx
+*.csv
+Generated_Posts/
+sent_log.txt
+phone_numbers.txt
+
+# Python
+.venv/
+venv/
+env/
